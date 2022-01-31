@@ -1,4 +1,4 @@
-# getmeds.py
+# getmeds.py 🔗[Website](https://getmeds-123.web.app/)
 
 ## GetMeds is an android app + web app that helps in delivering medicines to you.
 
@@ -22,4 +22,4 @@
 
 ![Android View](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg)
 
-### Do check out the [Website](https://getmeds-123.web.app/)
+
