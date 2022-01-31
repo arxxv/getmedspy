@@ -2,11 +2,11 @@
 
 ## GetMeds is an android app + web app that helps in delivering medicines to you.
 
-1) If you want some medicines delivered to you, you can create an order on our app and mention the medicines you require along with their quantity. You can also add symptoms to your order if you don't know the medication required to cure your condition. Users can create orders in exchange for coins which serve as a convenience fee.
+1) An user can post there order on the web/android app which then will be shown to all the users on the homepage of the app. The user gets options like adding the exact medicines to the items or they can add the symptoms as well. 
 
-2) Users can also accept orders available around them and deliver them. When one completes an order they earn coins for completing the order successfully. 
+2) Other users can accept and complete orders posted by someone else, in exchange for some incentives!
 
-### The backend was built using FastAPI and python.
+### The backend was built using FastAPI, Python, MongoDB.
 
 ##### Some screenshots of the Website
 
