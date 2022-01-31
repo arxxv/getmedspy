@@ -10,16 +10,16 @@
 
 ##### Some screenshots of the Website
 
-#### Start Page
+#### Landing Page
 
-![Start Page](https://github.com/Arsh-ak7/React-Projects/blob/main/Movie-browser/Movie_brow_start.png)
+![Home Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png)
 
-#### Home Page
+#### Profile Page
 
-![Home Page](https://github.com/Arsh-ak7/React-Projects/blob/main/Movie-browser/Movie_brow_home.png)
+![Profile Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png)
 
-#### Subscription Page
+#### On Android
 
-![Subscription Page](https://github.com/Arsh-ak7/React-Projects/blob/main/Movie-browser/Movie_brow_sub.png)
+![Android View](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg)
 
-### Do check out the [Website](https://movie-browser-61927.web.app/)
+### Do check out the [Website](https://getmeds-123.web.app/)
