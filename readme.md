@@ -19,7 +19,9 @@
 ![Profile Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png)
 
 #### On Android
-
+<!-- 
 ![Android View](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg)
-
+ -->
+ 
+ <img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg" alt="drawing" width="200"/>
 
