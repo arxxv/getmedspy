@@ -11,13 +11,16 @@
 ##### Some screenshots of the Website
 
 #### Landing Page
+<img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png" alt="drawing" width="1000"/>
 
-![Home Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png)
+<!-- ![Home Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png) -->
 
 #### Profile Page
+<img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png" alt="drawing" width="1000"/>
 
+<!-- 
 ![Profile Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png)
-
+ -->
 #### On Android
 <!-- 
 ![Android View](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg)
