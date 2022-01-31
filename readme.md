@@ -6,6 +6,8 @@
 
 2) Other users can accept and complete orders posted by someone else, in exchange for some incentives!
 
+The app has complete CRUD functionality. 
+
 ### The backend was built using FastAPI, Python, MongoDB.
 
 ##### Some screenshots of the Website
@@ -13,18 +15,11 @@
 #### Landing Page
 <img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png" alt="drawing" width="800"/>
 
-<!-- ![Home Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/home.png) -->
 
 #### Profile Page
 <img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png" alt="drawing" width="800"/>
 
-<!-- 
-![Profile Page](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/profile.png)
- -->
 #### On Android
-<!-- 
-![Android View](https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg)
- -->
  
  <img src="https://github.com/arxxv/getmedspy/blob/fe5f2fbe3ada5899925da784651257f6294f4b65/images/android.jpg" alt="drawing" width="200"/>
 
