@@ -1,5 +1,5 @@
 # [getmeds](https://getmeds-123.web.app/)
-
+[Devpost](https://devpost.com/software/getmeds)
 ## GetMeds is an android app + web app that helps in delivering medicines to you.
 
 1) An user can post there order on the web/android app which then will be shown to all the users on the homepage of the app. The user gets options like adding the exact medicines to the items or they can add the symptoms as well. 
